@@ -120,3 +120,16 @@ We provide a list of the 60 cryptocurrencies tracked in this study below. They w
 | GALA   | 0xd1d2eb1b1e90b638588728b4130137d262c87cae |
 | ENJ    | 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c |
 | HEX    | 0x2b591e99afe9f32eaa6214f7b7629768c40eeb39 |
+
+## Attribution
+If using this repository for research, please cite as: 
+``` bibtex
+@inproceedings{heimbach2024nonatomic,
+  title = {Non-Atomic Arbitrage in Decentralized Finance},
+  author ={Heimbach, Lioba and Pahari, Vabuk and Schertenleib, Eric},
+  booktitle ={IEEE Symposium on Security and Privacy (SP) 2024},
+  year = {2024},
+  month = may,
+  }
+```
+
